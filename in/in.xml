@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<homepage>
+    <site_info>
+        <title>My Cool Website</title>
+        <url>https://example.com</url>
+        <language>en-us</language>
+    </site_info>
+    
+    <navigation>
+        <item link="#home">Home</item>
+        <item link="#about">About Us</item>
+        <item link="#services">Services</item>
+        <item link="#contact">Contact</item>
+    </navigation>
+    
+    <main_content>
+        <banner>
+            <heading>Welcome to Our Homepage</heading>
+            <subtext>Discover amazing content and tools.</subtext>
+            <button_link action="signup">Get Started</button_link>
+        </banner>
+        
+        <featured_article id="101">
+            <category>Technology</category>
+            <title>Understanding XML Basics</title>
+            <author>Jane Doe</author>
+            <date>2026-08-19</date>
+            <summary>A quick guide to structured data formats.</summary>
+        </featured_article>
+    </main_content>
+    
+    <footer>
+        <copyright>© 2026 My Cool Website</copyright>
+        <contact_email>support@example.com</contact_email>
+    </footer>
+</homepage>
